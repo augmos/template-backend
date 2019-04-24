@@ -1,0 +1,8 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Any directory that starts with '.' is also ignored
+/.*/
